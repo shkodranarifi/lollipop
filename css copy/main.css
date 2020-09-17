@@ -1,0 +1,545 @@
+
+a {
+    color: #4630EB;
+}
+
+a.btn {
+  color: white !important;
+  padding-top: 0px !important;
+  line-height: 50px;
+  padding: 20px;
+}
+
+a:hover {
+    color: #4630EB;
+}
+
+.img-responsive {
+  max-width: 100%;
+}
+
+.brand {
+  margin-top: 25px;
+}
+
+.navbar-brand {
+  padding: 15px 0px;
+}
+
+.nav_header {
+  text-align: center;
+}
+
+.nav_links {
+  display: inline-block;
+  font-family: Circular-Bold;
+  font-size: 12px;
+  color: #787C8E;
+  letter-spacing: 2px;
+  padding: 15px;
+}
+
+.navbar-collapse {
+  color:red;
+}
+
+.title {
+font-family: Circular-Medium;
+font-size: 60px;
+color: #191A17;
+letter-spacing: 1.5px;
+margin-top:200px
+}
+
+.second-title {
+font-family: RobotoSlab-Bold;
+font-size: 14px;
+color: #4630EB;
+letter-spacing: 5.83px;
+margin-bottom: 44px;
+}
+
+.about-me {
+
+  font-family: RobotoSlab-Regular;
+  font-size: 16px;
+  color: #707487;
+  letter-spacing: 0.3px;
+  line-height: 34px;
+  width: 450px;
+}
+
+
+.hero_photo {
+  margin-top: 160px;
+}
+
+.socials {
+   list-style-type: none;
+   margin-top: 300px;
+}
+
+.socials_li {
+  margin-top: 20px;
+}
+
+.scroll_more {
+  font-family: Circular-Book;
+  font-size: 13px;
+  color: #4630EB;
+  letter-spacing: 1.08px;
+  margin-top: 50px;
+}
+
+/** Blog section **/
+
+.blog {
+  background-color: #FAFAFA;
+  margin-top: 100px;
+  padding-bottom: 100px;
+}
+
+
+.blog_title {
+  font-family: Circular-Medium;
+  font-size: 50px;
+  color: #191A17;
+  letter-spacing: 1.35px;
+  padding-top: 50px;
+}
+
+.blog_item {
+  padding-top: -20px;
+  margin-right: -10px;
+  height: 380px;
+  margin-top: 60px; 
+  background-color: #FADBC8;
+}
+
+.blog_item:hover {
+  margin-right: -10px;
+  height: 380px;
+  margin-top: 60px; 
+  background-color: #FADBC8;
+  box-shadow: 2px 2px 8px 0 rgba(189,185,185,0.30);
+}
+
+
+.blog_item_2 {
+  margin-right: -10px;  
+  height: 380px;
+  margin-top: 60px; 
+  background-color: #FFE7EF;
+
+
+}
+
+.blog_item_3 {
+  margin-right: -10px;
+  height: 380px;
+  margin-top: 60px; 
+  background-color: #C6E1F1;
+  
+
+}
+
+.blog_item_4 {
+  margin-right: -10px;
+  height: 380px;
+  margin-top: 60px; 
+  background-color: #C3F0CC;
+  
+}
+
+.item-type {
+  font-family: RobotoSlab-Regular;
+  font-size: 14px;
+  color: #000;
+  letter-spacing: 0;
+  margin-top: 44px;
+  padding-left: 20px;
+  padding-top: 35px;
+  opacity: 0.51;
+
+}
+
+.title_item {
+  font-family: Circular-Book;
+  font-size: 28px;
+  color: #000;
+  letter-spacing: 0;
+  margin-bottom: 35px;
+  padding-left: 20px;
+  padding-right: 20px;
+  line-height: 1.4;
+  
+}
+
+.read_more {
+  font-family: RobotoSlab-Regular;
+  font-size: 16px;
+  color: #000;
+  letter-spacing: 0;
+  padding-left: 20px;
+  padding-bottom: 35px;
+}
+
+.read_articles {
+  width: 250px;
+  margin-top: 20px;
+}
+
+
+.btn-primary {
+  align-self: center;
+  background-color: #4630EB;
+  width: 100%;
+  height: 50px;
+  margin-bottom: 40px;
+  border: none;
+}
+
+.btn-primary:hover {
+  align-self: center;
+  background-color: #4630EB;
+  width: 100%;
+  height: 50px;
+  box-shadow: 1px 3px 4px 0 rgba(181,181,181,0.50);
+  border-radius: 4px;
+}
+
+.btn-secondary {
+  align-self: center;
+  background-color: #4630EB;
+  width: 160px;
+  height: 50px;
+  margin-bottom: 40px;
+  border: none;
+}
+
+.btn-secondary:hover {
+  align-self: center;
+  background-color: #4630EB;
+  width: 160px;
+  height: 50px;
+  box-shadow: 1px 3px 4px 0 rgba(181,181,181,0.50);
+  border-radius: 4px;
+}
+
+.btn-third_more {
+  align-self: center;
+  background-color: #000;
+  width: 125px;
+  height: 50px;
+  margin-bottom: 40px;
+  border: none;
+}
+
+.btn-third_more:hover {
+  align-self: center;
+  background-color: #4630EB;
+  width: 125px;
+  height: 50px;
+  margin-bottom: 40px;
+  box-shadow: 1px 3px 4px 0 rgba(181,181,181,0.50);
+}
+.read_more_blogs {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin-left: 30px;
+}
+/** end of blog section **/
+
+
+/** Projects **/
+
+.projects {
+  background-color: #0A0A0A;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-size: auto;
+  padding-left: 0px;
+}
+
+.projects_title {
+  font-family: Circular-Medium;
+  font-size: 50px;
+  color: #fff;
+  letter-spacing: 1.35px;
+}
+
+.about_project {
+  font-family: RobotoSlab-Regular;
+  font-size: 16px;
+  color: #fff;
+  letter-spacing: 0;
+  line-height: 34px;
+  opacity: 0.8;
+}
+
+.btn-outline-primary-dribbble {
+  background: rgba(245,76,160,0.20);
+  border: 1px solid #FF4FA6;
+  border-radius: 4px;
+  color: #ffffff;
+  width: 140px;
+  height: 50px;
+}
+
+.btn-outline-primary-behance {
+  background: rgba(70,48,235,0.20);
+  border: 1px solid #4630EB;
+  border-radius: 4px;
+  color: #ffffff;
+  width: 140px;
+  height: 50px;
+}
+
+/** NEW NEW NEW PROJECTS **/
+
+.title_item2 {
+  color: #fff;
+  margin-top: 80px;
+}
+
+/** SLIDER SLIDER SLIDER **/
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+  color: white;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.4);
+}
+
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 3px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #d2d2d2;
+  border-radius: 1.5px;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #fff;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 3.0s;
+  animation-name: fade;
+  animation-duration: 3.0s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .6} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .6} 
+  to {opacity: 1}
+}
+
+/* end of animation */
+
+
+.about_project2 {
+  margin-top: 20px;
+  font-family: RobotoSlab-Regular;
+  font-size: 16px;
+  color: #827C85;
+  letter-spacing: 0;
+  line-height: 34px;
+  padding-right: 80px;
+
+}
+
+.biography-content {
+  padding-left: 30px;
+}
+
+.view_project {
+  width: 150px;
+  margin-top: 40px;
+}
+
+.photo-biography {
+  margin-top: 60px;
+}
+
+.biography-text {
+  margin-top: 40px;
+  font-family: RobotoSlab-Regular;
+  font-size: 16px;
+  color: #707487;
+  letter-spacing: 0px;
+  line-height: 34px;
+  width: 460px;
+}
+
+.biography-head-text {
+  font-family: RobotoSlab-Regular;
+  font-size: 18px;
+  color: #707487;
+  letter-spacing: 0.3px;
+  line-height: 30px;
+  margin-top: 60px;
+  width: 460px;
+}
+
+
+.btn-primary-follow {
+  align-self: center;
+  background-color: #4630EB;
+  width: 240px;
+  height: 50px;
+  margin-bottom: 40px;
+  border: none;
+  color: white;
+}
+
+.btn-primary-follow:hover {
+  align-self: center;
+  background-color: #4630EB;
+  width: 240px;
+  height: 50px;
+  box-shadow: 1px 3px 4px 0 rgba(181,181,181,0.50);
+  border-radius: 4px;
+}
+
+.position {
+  margin-top: 60px;
+}
+
+.position {
+  font-family: Circular-Book;
+  font-size: 24px;
+  color: #191A17;
+  letter-spacing: 0;
+}
+
+.company {
+  font-family: Circular-Book;
+  font-size: 20px;
+  color: #4630EB;
+  letter-spacing: 0;
+}
+
+.working-years {
+  font-family: Circular-Book;
+  font-size: 16px;
+  color: #707487;
+  letter-spacing: 0;
+}
+
+.footer {
+  background-color:#4630EB;
+  margin-top: 100px;
+  padding-bottom: 60px;
+  padding-top: 100px;
+}
+
+.footer_text {
+  font-family: RobotoSlab-Regular;
+  font-size: 16px;
+  color: #FFFFFF;
+  letter-spacing: 0;
+  text-align: center;
+  line-height: 30px;
+}
+
+.footer_head {
+  font-family: Circular-Medium;
+  font-size: 50px;
+  color: #fff;
+  letter-spacing: 1.35px;
+  padding: 20px;
+  text-align: center;
+}
+
+.button-footer {
+  text-align: center;
+  padding: 30px;
+}
+
+.btn-primary-footer {
+  align-self: center;
+  background-color: #fff;
+  width: 240px;
+  height: 50px;
+  margin-bottom: 40px;
+  border: none;
+  color: #4630EB;
+}
+
+.btn-primary-footer:hover {
+  align-self: center;
+  background-color: #fff;
+  width: 240px;
+  height: 50px;
+  box-shadow: 1px 3px 4px 0 rgba(181,181,181,0.50);
+  border-radius: 4px;
+  color: #4630EB;
+}
+
+.copyright_note {
+  font-family: RobotoSlab-Regular;
+  font-size: 12px;
+  color: #FFFFFF;
+  letter-spacing: 0;
+  text-align: right;
+}
+
+.social {
+  padding-left: 10px;
+  list-style-type: none;
+  display: inline-flex;
+  margin-top: 10px;
+}
+
+.social-item {
+  margin-right: 20px;
+}
+
+
